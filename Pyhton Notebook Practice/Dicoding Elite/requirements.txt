@@ -1,0 +1,9 @@
+kaggle
+matplotlib==3.9.2
+numpy==2.1.3
+pandas==2.2.3
+plotly
+scikit_learn
+seaborn
+streamlit
+streamlit_shadcn_ui

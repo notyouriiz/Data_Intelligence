@@ -1,0 +1,12 @@
+﻿Jenis Kendaraan;Merk Kendaraan;Tahun Pembuatan;Nama Kendaraan;Kapasitas Mesin (CC);Warna;Bahan Bakar;Harga Jual Kembali;Harga Perawatan;Konsumsi Bahan Bakar (km/l);Ukuran (P*L*T) (mm);Jarak ke Tanah (mm)
+Sedan;Toyota;2012;Camry;2400;Hitam;Bensin;150000000;2000000;8;4805 x 1820 x 1470;150
+SUV;Toyota;2016;Fortuner;2400;HItam;Diesel;350000000;2500000;10;4795 x 1835 x 1855;225
+MPV;Toyota;2022;Innova Reborn;2000;Hitam;Bensin;350000000;2500000;7;4735 x 1830 x 1795;185
+SUV;Toyota;2016;Rush;1500;Putih;Bensin;170000000;1000000;14;4420 x 1745 x 1740;220
+Sedan ;BMW;1998;Seri-3;2000;Hitam;Bensin;90000000;3000000;12;4470 x 1740 1415;130
+MPV;Honda;2016;Mobilio;1500;Putih;Bensin;135000000;2000000;17;4386 x 1683 x 1603;189
+MPV;Suzuki;2016;Ertiga;1500;Putih;Bensin;140000000;1500000;15;4395 x 1735 x 1690;180
+MPV;Wuling;2018;Almaz;1500;Merah Maroon;Bensin;185000000;1350000;11;4655 x 1835 x 1760;230
+SUV;Daihatsu;2012;Terios;1500;Putih;Bensin;105000000;1000000;14;4455 x 1695 x 1705;220
+MPV;Toyota;2014;Innova Kijang;2500;Hitam;Diesel;250000000;2000000;11;4555 x 1770 x 1750;200
+SUV;Nissan;2016;Xtrail;2500;Hitam;Bensin;200000000;3000000;7;4690 x 1830 1740;210

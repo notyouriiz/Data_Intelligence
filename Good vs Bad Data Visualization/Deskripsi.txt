@@ -1,0 +1,4 @@
+In this directory is talking about comparisson of bad and good data visualization, there is no insight or data context. Only comparing bad visual and good visual
+
+Bad Visualization: A bad data visualization is the visual representation of data that misinforms the reader and leads them to the wrong conclusions. Instead of making data-driven decisions from relevant data, the reader is left confused
+Good Visualization: Good data visualization should communicate a data set clearly and effectively by using graphics. The best visualizations make it easy to comprehend data at a glance.

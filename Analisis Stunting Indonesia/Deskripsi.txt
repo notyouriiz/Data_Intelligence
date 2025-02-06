@@ -1,0 +1,8 @@
+Analisis Data Stunting dan Seberapa efektif penanganan pemerintah
+
+Datasource:
+  WEB SCRAPPING (URL ON SOURCE CODE)
+   Duration: 2019 - 2023
+
+Code Language:
+  Python

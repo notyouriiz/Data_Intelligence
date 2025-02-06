@@ -1,0 +1,1 @@
+This is the first course of data visualization, it tought to understanding data from importing to visualizing

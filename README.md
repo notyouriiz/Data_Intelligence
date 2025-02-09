@@ -16,7 +16,7 @@ Others: Kaggle
 ```
 git clone https://github.com/notyouriiz/Data_Intelligence.git
 ```
-2. Navigate to Projecct Directory
+2. Navigate to Project Directory
 ```
 cd Data_Intelligence
 ```

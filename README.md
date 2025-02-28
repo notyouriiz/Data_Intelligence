@@ -21,3 +21,8 @@ git clone https://github.com/notyouriiz/Data_Intelligence.git
 cd Data_Intelligence
 ```
 3. Choose Folder You Want to Explore
+
+---
+
+**Author:** Faiz Noor Adhytia  
+**Contact:** faizadhytia24@gmail.com
